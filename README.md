@@ -9,3 +9,4 @@
 ## 8. React modal installation required install react-modal
 ## 9. Install Nodemon yarn add nodemon
 ## 10. Install express body-parser mongoose shortid
+## 11. Install npm install redux react-redux redux-thunk
